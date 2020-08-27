@@ -1,5 +1,5 @@
 {
-  "name": "04-lauchstore-project",
+  "name": "06-lauchstore-autentication",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
