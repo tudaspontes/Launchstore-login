@@ -192,12 +192,7 @@ const Validate = {
     },
     isEmail(value) {
         let error = null
-        const mailFormat = //
-
-        return {
-            error,
-            value
-        }
+        
     }
 }
 
